@@ -44,7 +44,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:danielacoavas@gmail.com"><img src="https://img.shields.io/badge/Gmail-5e2b2b?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dannysophi17"><img src="https://img.shields.io/badge/GitHub-202020?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 
