@@ -2,16 +2,15 @@
 
 <p align="center">
   <a href="https://github.com/dannysophi17">
-    <img src="https://github-readme-stats.vercel.app/api?username=dannysophi17&show_icons=true&theme=rose_pine&hide_title=false&hide_border=false&title_color=800020&icon_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dannysophi17&show_icons=true&theme=rose_pine&hide_title=false&title_color=800020&icon_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="420"/>
   </a>
-  <a href="https://github.com/dannysophi17">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysophi17&layout=compact&theme=rose_pine&hide_border=false&title_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="300"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysophi17&layout=compact&theme=rose_pine&title_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="300"/>
   </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tools I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,angular,nodejs,express,mongodb,firebase,bootstrap,figma,git,github,vscode" />
@@ -19,25 +18,25 @@
 
 ---
 
-### 📁 Projects
+### 🧷 Featured Work
 
-| Project | Description |
-|--------|-------------|
-| [🎮 Tareas Arcade - Backend](https://github.com/dannysophi17/Backend-Tareas-Arcade) | Node.js API with JWT login, task history, tags & stats. |
-| [🕹️ Tareas Arcade - Frontend](https://github.com/dannysophi17/Tareas-arcade-final) | Angular SPA with retro theme, route guards, and animations. |
-| [💼 TechForge Front-End](https://github.com/dannysophi17/TechForge_Front_end) | Responsive website for tech services using Bootstrap. |
+| Repo | Description |
+|------|-------------|
+| [🎮 Arcade Tasks - Backend](https://github.com/dannysophi17/Backend-Tareas-Arcade) | API built with Node.js, JWT login, tags, stats & task history. |
+| [🕹️ Arcade Tasks - Frontend](https://github.com/dannysophi17/Tareas-arcade-final) | Angular SPA with retro style, route guards and local animations. |
+| [📂 TechForge Web](https://github.com/dannysophi17/TechForge_Front_end) | Landing page for a tech service, clean layout with Bootstrap. |
 
 ---
 
-### 📈 GitHub Contributions
+### 📊 My Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannysophi17/dannysophi17/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannysophi17&theme=react-dark&hide_border=true&area=true&color=BD6C8F&point=EFB7C9" />
 </p>
 
 ---
 
-### 📬 Contact
+### 💌 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -48,8 +47,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="140" alt="cute sticker" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="bye bear" />
 </p>
+
 
 
 
