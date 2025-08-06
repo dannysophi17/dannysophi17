@@ -46,8 +46,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" alt="motivated chick" />
+  <img src="https://media.giphy.com/media/xUOxfjsW2mo8sYbLh6/giphy.gif" width="160" alt="coding bunny" />
 </p>
+
 
 
 
