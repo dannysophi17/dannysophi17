@@ -28,11 +28,16 @@
 
 ---
 
-### 📊 My Activity
+### 🧷 Rhythm
+
+<p align="center" style="font-size: 24px;">
+🟢⬜⬜🟣🟣⬜🟢⬜⬜🟢🟢⬜🟣⬜⬜🟢⬜⬜🟢🟣⬜🟢⬜
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannysophi17&theme=react-dark&hide_border=true&area=true&color=BD6C8F&point=EFB7C9" />
+<code>🟢 = code</code> &nbsp;&nbsp; <code>🟣 = design/test</code> &nbsp;&nbsp; <code>⬜ = pause</code>
 </p>
+
 
 ---
 
