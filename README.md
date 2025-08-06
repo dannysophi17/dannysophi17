@@ -1,13 +1,17 @@
 <h2 align="center">Daniela Coavas • Full Stack Developer</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannysophi17&show_icons=true&theme=rose_pine&hide_title=false&hide_border=false&title_color=800020&icon_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysophi17&layout=compact&theme=rose_pine&hide_border=false&title_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="300"/>
+  <a href="https://github.com/dannysophi17">
+    <img src="https://github-readme-stats.vercel.app/api?username=dannysophi17&show_icons=true&theme=rose_pine&hide_title=false&hide_border=false&title_color=800020&icon_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="420"/>
+  </a>
+  <a href="https://github.com/dannysophi17">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysophi17&layout=compact&theme=rose_pine&hide_border=false&title_color=800020&text_color=5e2b2b&bg_color=fff0f3" width="300"/>
+  </a>
 </p>
 
 ---
 
-### 🔧 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,angular,nodejs,express,mongodb,firebase,bootstrap,figma,git,github,vscode" />
@@ -15,7 +19,7 @@
 
 ---
 
-### 💼 Projects
+### 📁 Projects
 
 | Project | Description |
 |--------|-------------|
@@ -25,15 +29,15 @@
 
 ---
 
-### 📈 Contributions
+### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannysophi17&theme=rose_pine&bg_color=fff0f3&color=800020&line=5e2b2b&point=5e2b2b&hide_border=true" />
+  <img src="https://github.com/dannysophi17/dannysophi17/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-### 📬 Connect
+### 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -44,8 +48,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="160" alt="cute bear gif" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="140" alt="cute sticker" />
 </p>
+
 
 
 
