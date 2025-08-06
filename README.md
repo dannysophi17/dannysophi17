@@ -32,7 +32,7 @@
 ### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/dannysophi17/dannysophi17/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/dannysophi17/dannysophi17/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
