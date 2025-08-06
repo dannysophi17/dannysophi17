@@ -33,6 +33,10 @@
   <img src="https://raw.githubusercontent.com/dannysophi17/dannysophi17/output/github-contribution-grid-snake.svg" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="140" alt="cute sticker" />
+</p>
+
 ---
 
 ### 💌 Let’s Connect
@@ -43,11 +47,6 @@
   <a href="https://github.com/dannysophi17"><img src="https://img.shields.io/badge/GitHub-202020?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW2mo8sYbLh6/giphy.gif" width="160" alt="coding bunny" />
-</p>
 
 
 
