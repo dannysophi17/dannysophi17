@@ -33,12 +33,6 @@
   <img src="https://raw.githubusercontent.com/dannysophi17/dannysophi17/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-<p align="center">
-<code>🟢 = code</code> &nbsp;&nbsp; <code>🟣 = design/test</code> &nbsp;&nbsp; <code>⬜ = pause</code>
-</p>
-
-
 ---
 
 ### 💌 Let’s Connect
