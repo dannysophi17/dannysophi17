@@ -37,26 +37,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
 </p>
 
-## ✧ Tech Stack
+## ✧ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,mongodb,html,css,scss&perline=9" alt="stack principal" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,bootstrap,figma,git,github,vscode,linux,postman&perline=8" alt="herramientas" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-ffb3c1?style=flat&logo=angular&logoColor=800020" />
-  <img src="https://img.shields.io/badge/Node.js-fff0f3?style=flat&logo=node.js&logoColor=800020" />
-  <img src="https://img.shields.io/badge/Express-ffb3c1?style=flat&logo=express&logoColor=800020" />
-  <img src="https://img.shields.io/badge/MongoDB-fff0f3?style=flat&logo=mongodb&logoColor=800020" />
-  <img src="https://img.shields.io/badge/RxJS-ffb3c1?style=flat&logo=reactivex&logoColor=800020" />
-</p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
 </p>
+
 
 ## ✦ Projects
 
