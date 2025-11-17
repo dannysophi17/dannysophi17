@@ -1,11 +1,10 @@
-
 <h1 align="center" style="margin: 0; padding: 0;">
   ✦ <span style="color:#800020">Daniela Coavas</span> ✦
 </h1>
-<p align="center"><code>Angular · JavaScript · CSS — Node.js · Express · MongoDB</code></p>
+<p align="center"><code>Angular · TypeScript · JavaScript · CSS — Node.js · Express · MongoDB</code></p>
 
 <p align="center" style="margin-top:4px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=800020&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+in+progress"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=800020&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+in+progress;Crafting+beautiful+web+experiences"
        alt="typing accent" />
 </p>
 
@@ -32,7 +31,6 @@
   />
 </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
 </p>
@@ -40,13 +38,31 @@
 ## ✧ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,mongodb,html,css,scss&perline=9" alt="stack principal" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,mongodb,html,css,scss,git&perline=10" alt="stack principal" />
   <br/>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
 </p>
 
+## ✦ Portfolio
+
+<p align="center">
+  <a href="https://portafolio-universo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VIEW_LIVE_PORTFOLIO-800020?style=for-the-badge&logoColor=white" alt="portfolio live" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dannysophi17/portafolio-universo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannysophi17&repo=portafolio-universo&hide_border=false&border_color=ffb3c1&bg_color=fff0f3&title_color=800020&text_color=5e2b2b&icon_color=800020&border_radius=12" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
+</p>
 
 ## ✦ Projects
 
@@ -70,7 +86,6 @@
   </tr>
 </table>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
 </p>
@@ -85,4 +100,8 @@
   <a href="mailto:danielacoavas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-5e2b2b?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c1&height=80&section=footer" alt="footer wave" />
 </p>
