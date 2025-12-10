@@ -20,15 +20,20 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dannysophi17&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff0f3&title_color=800020&icon_color=800020&text_color=5e2b2b&v=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannysophi17&theme=rose_pine"
     width="420"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysophi17&layout=compact&langs_count=8&hide_border=true&bg_color=fff0f3&title_color=800020&text_color=5e2b2b&v=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dannysophi17&theme=rose_pine"
     width="330"
     alt="Top Langs"
   />
+</p>
+
+<!-- Banner interactivo estilo “gusanito” -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="820" />
 </p>
 
 <p align="center">
@@ -50,13 +55,7 @@
 
 <p align="center">
   <a href="https://portafolio-universo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VIEW_LIVE_PORTFOLIO-800020?style=for-the-badge&logoColor=white" alt="portfolio live" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dannysophi17/portafolio-universo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannysophi17&repo=portafolio-universo&hide_border=false&border_color=ffb3c1&bg_color=fff0f3&title_color=800020&text_color=5e2b2b&icon_color=800020&border_radius=12" />
+    <img src="https://img.shields.io/badge/🌐_VIEW_LIVE_PORTFOLIO-800020?style=for-the-badge&logoColor=white" height="40"/>
   </a>
 </p>
 
@@ -68,19 +67,28 @@
 
 <table align="center">
   <tr>
-    <td width="33%">
+    <td align="center" width="33%">
       <a href="https://github.com/dannysophi17/Backend-Tareas-Arcade">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannysophi17&repo=Backend-Tareas-Arcade&hide_border=false&border_color=ffb3c1&bg_color=fff0f3&title_color=800020&text_color=5e2b2b&icon_color=800020&border_radius=12" />
+        <img 
+          src="https://img.shields.io/badge/Backend_Tareas_Arcade-800020?style=for-the-badge&logo=github&logoColor=white"
+          alt="Backend Tareas Arcade"
+        />
       </a>
     </td>
-    <td width="33%">
+    <td align="center" width="33%">
       <a href="https://github.com/dannysophi17/Tareas-arcade-final">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannysophi17&repo=Tareas-arcade-final&hide_border=false&border_color=ffb3c1&bg_color=fff0f3&title_color=800020&text_color=5e2b2b&icon_color=800020&border_radius=12" />
+        <img 
+          src="https://img.shields.io/badge/Tareas_Arcade_Final-ffb3c1?style=for-the-badge&logo=javascript&logoColor=800020"
+          alt="Tareas Arcade Final"
+        />
       </a>
     </td>
-    <td width="33%">
+    <td align="center" width="33%">
       <a href="https://github.com/dannysophi17/TechForge_Front_end">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannysophi17&repo=TechForge_Front_end&hide_border=false&border_color=ffb3c1&bg_color=fff0f3&title_color=800020&text_color=5e2b2b&icon_color=800020&border_radius=12" />
+        <img 
+          src="https://img.shields.io/badge/TechForge_Frontend-800020?style=for-the-badge&logo=github&logoColor=white"
+          alt="TechForge Frontend"
+        />
       </a>
     </td>
   </tr>
@@ -105,3 +113,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c1&height=80&section=footer" alt="footer wave" />
 </p>
+
+
