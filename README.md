@@ -54,7 +54,7 @@
 ## ✦ Portfolio
 
 <p align="center">
-  <a href="dcoavas.com" target="_blank">
+  <a href="https://dcoavas.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_VIEW_LIVE_PORTFOLIO-800020?style=for-the-badge&logoColor=white" height="40"/>
   </a>
 </p>
