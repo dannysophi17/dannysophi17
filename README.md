@@ -1,117 +1,136 @@
-<h1 align="center" style="margin: 0; padding: 0;">
-  ✦ <span style="color:#800020">Daniela Coavas</span> ✦
-</h1>
-<p align="center"><code>Angular · TypeScript · JavaScript · CSS — Node.js · Express · MongoDB</code></p>
+<div align="center">
 
-<p align="center" style="margin-top:4px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=800020&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+in+progress;Crafting+beautiful+web+experiences"
-       alt="typing accent" />
-</p>
+<img src="./assets/pixel-header.svg" width="100%" alt="Daniela Coavas — Systems Engineering, Cloud, Full Stack and 3D Web" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="140" alt="gif gato" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
-</p>
+<a href="https://dcoavas.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-800020?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/">
+  <img src="https://img.shields.io/badge/LINKEDIN-5E2B2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/dannysophi17">
+  <img src="https://img.shields.io/badge/FOLLOW-FF6B9D?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dannysophi17&label=PROFILE%20VIEWS&style=flat-square&color=800020" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
+
+## ✦ About
+
+```text
+daniela@github:~$ cat profile.txt
+
+Systems Engineering student
+AWS Certified Cloud Practitioner
+Full Stack Developer
+
+> cloud computing
+> modern web development
+> interactive 3D experiences
+```
+
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
 ## ❖ GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannysophi17&theme=rose_pine"
-    width="420"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dannysophi17&theme=rose_pine"
-    width="330"
-    alt="Top Langs"
-  />
-</p>
+<div align="center">
 
-<!-- Banner interactivo estilo “gusanito” -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="820" />
-</p>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dannysophi17&theme=github_dark&title_color=FF6B9D&text_color=FFF0F3&bg_color=0D1117&border_color=800020&icon_color=FF9900&chart_color=FF6B9D&animation=load"
+  width="98%"
+  alt="Daniela's GitHub profile details"
+/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
-</p>
+<br/>
 
-## ✧ Tech Stack  
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannysophi17&theme=github_dark&title_color=FF6B9D&text_color=FFF0F3&bg_color=0D1117&border_color=800020&icon_color=FF9900&chart_color=FF6B9D&animation=rise"
+  width="49%"
+  alt="Daniela's GitHub stats"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dannysophi17&theme=github_dark&title_color=FF6B9D&text_color=FFF0F3&bg_color=0D1117&border_color=800020&icon_color=FF9900&chart_color=FF6B9D&animation=draw"
+  width="49%"
+  alt="Daniela's most used commit languages"
+/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,mongodb,html,css,scss,git&perline=10" alt="stack principal" />
-  <br/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
-</p>
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-## ✦ Portfolio
+## ⚡ Main Stack
 
-<p align="center">
-  <a href="https://dcoavas.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VIEW_LIVE_PORTFOLIO-800020?style=for-the-badge&logoColor=white" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
-</p>
+[![Main Stack](https://skillicons.dev/icons?i=aws,nextjs,react,ts,nodejs,threejs,git&theme=dark&perline=7)](https://skillicons.dev)
 
-## ✦ Projects
+</div>
 
-<table align="center">
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
+
+## ✧ Selected Builds
+
+<table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/dannysophi17/Backend-Tareas-Arcade">
-        <img 
-          src="https://img.shields.io/badge/Backend_Tareas_Arcade-800020?style=for-the-badge&logo=github&logoColor=white"
-          alt="Backend Tareas Arcade"
-        />
+    <td width="50%" valign="top">
+      <h3>🎁 3D Memory Gift</h3>
+      <p>Open-source template for creating interactive 3D memory experiences.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code></p>
+      <a href="https://github.com/dannysophi17/3d-memory-gift-template">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-800020?style=flat-square&logo=github&logoColor=white" alt="3D Memory Gift repository" />
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/dannysophi17/Tareas-arcade-final">
-        <img 
-          src="https://img.shields.io/badge/Tareas_Arcade_Final-ffb3c1?style=for-the-badge&logo=javascript&logoColor=800020"
-          alt="Tareas Arcade Final"
-        />
+    <td width="50%" valign="top">
+      <h3>🌌 3D Portfolio</h3>
+      <p>My interactive developer portfolio built as a navigable 3D universe.</p>
+      <p><code>Next.js</code> <code>R3F</code> <code>AWS</code></p>
+      <a href="https://dcoavas.com">
+        <img src="https://img.shields.io/badge/VISIT_LIVE-FF6B9D?style=flat-square&logo=safari&logoColor=0D1117" alt="Visit live portfolio" />
       </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/dannysophi17/TechForge_Front_end">
-        <img 
-          src="https://img.shields.io/badge/TechForge_Frontend-800020?style=for-the-badge&logo=github&logoColor=white"
-          alt="TechForge Frontend"
-        />
+      <a href="https://github.com/dannysophi17/portafolio-universo">
+        <img src="https://img.shields.io/badge/CODE-5E2B2B?style=flat-square&logo=github&logoColor=white" alt="3D Portfolio repository" />
       </a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb3c1&height=6&text=%20&fontSize=0" alt="sep" />
-</p>
+<div align="center">
 
-## ❖ Contact
+<a href="https://github.com/dannysophi17/GasCare_Senior">
+  <img src="https://img.shields.io/badge/GasCare_Senior-IoT-FF9900?style=flat-square&logo=github&logoColor=0D1117" alt="GasCare Senior" />
+</a>
+&nbsp;
+<a href="https://github.com/dannysophi17?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_all_repositories-800020?style=flat-square&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/">
-    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:danielacoavas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-5e2b2b?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c1&height=80&section=footer" alt="footer wave" />
-</p>
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
+<div align="center">
 
+<code>building · learning · shipping</code>
+
+<br/><br/>
+
+<a href="https://dcoavas.com">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/dannysophi17">GitHub</a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by ✦</sub>
+
+</div>
