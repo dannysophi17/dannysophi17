@@ -189,8 +189,6 @@ Retro-inspired task management web application with authentication and user feat
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/">LinkedIn</a>
 
-<br/><br/>
-
 <sub>Thanks for stopping by ✦</sub>
 
 </div>
