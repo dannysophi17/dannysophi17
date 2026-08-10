@@ -47,15 +47,22 @@ I especially enjoy creating **interactive web experiences** and turning ideas in
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=dannysophi17&show_icons=true&hide_border=false&border_color=5B21B6&bg_color=0D1117&title_color=A78BFA&text_color=DDD6FE&icon_color=7C3AED&ring_color=7C3AED&rank_icon=github"
-  height="185"
-  alt="Daniela's GitHub statistics"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dannysophi17&theme=github_dark&title_color=A78BFA&text_color=DDD6FE&bg_color=0D1117&border_color=5B21B6&icon_color=7C3AED&chart_color=7C3AED"
+  width="98%"
+  alt="Daniela's GitHub profile details"
 />
 
+<br/>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysophi17&layout=compact&langs_count=6&hide_border=false&border_color=5B21B6&bg_color=0D1117&title_color=A78BFA&text_color=DDD6FE"
-  height="185"
-  alt="Daniela's most used languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannysophi17&theme=github_dark&title_color=A78BFA&text_color=DDD6FE&bg_color=0D1117&border_color=5B21B6&icon_color=7C3AED&chart_color=7C3AED"
+  width="49%"
+  alt="Daniela's GitHub statistics"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dannysophi17&theme=github_dark&title_color=A78BFA&text_color=DDD6FE&bg_color=0D1117&border_color=5B21B6&icon_color=7C3AED&chart_color=A78BFA"
+  width="49%"
+  alt="Daniela's top languages by commit"
 />
 
 <br/><br/>
@@ -77,8 +84,8 @@ I especially enjoy creating **interactive web experiences** and turning ideas in
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=aws,nextjs,react,ts,threejs,git&theme=dark&perline=6"
-  alt="AWS, Next.js, React, TypeScript, Three.js and Git"
+  src="https://skillicons.dev/icons?i=aws,nextjs,react,ts,js,nodejs,threejs,angular,py,java,mysql,mongodb,docker,git&theme=dark&perline=7"
+  alt="AWS, Next.js, React, TypeScript, JavaScript, Node.js, Three.js, Angular, Python, Java, MySQL, MongoDB, Docker and Git"
 />
 
 </div>
