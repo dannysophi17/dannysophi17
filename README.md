@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/FOLLOW-A78BFA?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
 </a>
 
+<br><br/>
 <img src="https://komarev.com/ghpvc/?username=dannysophi17&label=PROFILE%20VIEWS&style=flat-square&color=7C3AED" alt="Profile views" />
 
 </div>
