@@ -7,7 +7,7 @@
 <a href="https://dcoavas.com">
   <img src="https://img.shields.io/badge/PORTFOLIO-5B21B6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/">
+<a href="https://www.linkedin.com/in/danielacoavas/">
   <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/dannysophi17">
@@ -186,7 +186,7 @@ Retro-inspired task management web application with authentication and user feat
 
 <a href="https://dcoavas.com">Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniela-coavas-desarrolladoraweb/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/danielacoavas/">LinkedIn</a>
 
 <sub>Thanks for stopping by ✦</sub>
 
