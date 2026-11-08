@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+  <style>
+    .tw1 { animation: tw 2.4s ease-in-out infinite; }
+    .tw2 { animation: tw 3.3s ease-in-out infinite 1s; }
+    @keyframes tw { 0%,100% { opacity: .15; } 50% { opacity: 1; } }
+    .sun { transform-box: fill-box; transform-origin: center; animation: pulse 3s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.06); } }
+  </style>
+  <defs>
+    <radialGradient id="sun" cx="40%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#F5F3FF"/><stop offset="50%" stop-color="#C4B5FD"/><stop offset="100%" stop-color="#6D28D9"/>
+    </radialGradient>
+    <radialGradient id="halo"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".5"/><stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="460" rx="18" fill="#0D1117"/>
+  <rect x="1.5" y="1.5" width="1197" height="457" rx="17" fill="none" stroke="#5B21B6" stroke-width="3"/>
+  <text x="36" y="46" fill="#A78BFA" font-size="16" font-weight="700">// mi sistema solar · what I build</text>
+  <text x="1164" y="46" text-anchor="end" fill="#6E7681" font-size="13">cloud · full stack · 3D web</text>
+  <g shape-rendering="crispEdges">
+    <rect class="tw1" x="693" y="137" width="4" height="4" fill="#7C3AED"/>
+    <rect class="tw2" x="128" y="97" width="2" height="2" fill="#A78BFA"/>
+    <rect class="tw1" x="148" y="319" width="3" height="3" fill="#DDD6FE"/>
+    <rect class="tw2" x="206" y="282" width="4" height="4" fill="#DDD6FE"/>
+    <rect class="tw1" x="522" y="106" width="4" height="4" fill="#DDD6FE"/>
+    <rect class="tw2" x="283" y="174" width="2" height="2" fill="#7C3AED"/>
+    <rect class="tw1" x="842" y="85" width="3" height="3" fill="#DDD6FE"/>
+    <rect class="tw2" x="1170" y="128" width="3" height="3" fill="#A78BFA"/>
+    <rect class="tw1" x="325" y="336" width="2" height="2" fill="#7C3AED"/>
+    <rect class="tw2" x="661" y="346" width="3" height="3" fill="#DDD6FE"/>
+    <rect class="tw1" x="414" y="250" width="2" height="2" fill="#7C3AED"/>
+    <rect class="tw2" x="158" y="348" width="2" height="2" fill="#7C3AED"/>
+    <rect class="tw1" x="451" y="314" width="4" height="4" fill="#A78BFA"/>
+    <rect class="tw2" x="983" y="359" width="4" height="4" fill="#A78BFA"/>
+    <rect class="tw1" x="643" y="187" width="3" height="3" fill="#7C3AED"/>
+    <rect class="tw2" x="529" y="101" width="3" height="3" fill="#7C3AED"/>
+    <rect class="tw1" x="1043" y="250" width="4" height="4" fill="#A78BFA"/>
+    <rect class="tw2" x="179" y="120" width="4" height="4" fill="#DDD6FE"/>
+    <rect class="tw1" x="730" y="137" width="4" height="4" fill="#A78BFA"/>
+    <rect class="tw2" x="110" y="402" width="2" height="2" fill="#7C3AED"/>
+    <rect class="tw1" x="672" y="234" width="3" height="3" fill="#7C3AED"/>
+    <rect class="tw2" x="1047" y="356" width="4" height="4" fill="#DDD6FE"/>
+    <rect class="tw1" x="221" y="198" width="4" height="4" fill="#7C3AED"/>
+    <rect class="tw2" x="163" y="91" width="3" height="3" fill="#7C3AED"/>
+    <rect class="tw1" x="942" y="205" width="4" height="4" fill="#7C3AED"/>
+    <rect class="tw2" x="740" y="71" width="4" height="4" fill="#A78BFA"/>
+  </g>
+  <path id="o0" d="M 790 245 A 190 62 0 1 1 410 245 A 190 62 0 1 1 790 245 Z" fill="none" stroke="#5B21B6" stroke-width="1.4" stroke-dasharray="3 7" opacity=".9"/>
+  <path id="o1" d="M 920 245 A 320 104 0 1 1 280 245 A 320 104 0 1 1 920 245 Z" fill="none" stroke="#5B21B6" stroke-width="1.4" stroke-dasharray="3 7" opacity=".9"/>
+  <path id="o2" d="M 1050 245 A 450 150 0 1 1 150 245 A 450 150 0 1 1 1050 245 Z" fill="none" stroke="#5B21B6" stroke-width="1.4" stroke-dasharray="3 7" opacity=".9"/>
+  <circle cx="600" cy="245" r="90" fill="url(#halo)"/>
+  <circle class="sun" cx="600" cy="245" r="44" fill="url(#sun)"/>
+  <text x="600" y="250" text-anchor="middle" fill="#2E1065" font-size="15" font-weight="800">DANIELA</text>
+  <g>
+    <animateMotion dur="26s" repeatCount="indefinite" begin="-0.0s"><mpath href="#o0"/></animateMotion>
+    <circle r="24" fill="#A78BFA" opacity=".18"/>
+    <circle r="16" fill="#A78BFA"/>
+    <rect x="-115" y="-56" width="230" height="38" rx="8" fill="#0D1117" fill-opacity=".8" stroke="#5B21B6" stroke-width="1"/>
+    <text y="-38" text-anchor="middle" fill="#F5F3FF" font-size="15" font-weight="800">AWS Cloud</text>
+    <text y="-22" text-anchor="middle" fill="#A78BFA" font-size="11">S3 · Lambda · Amplify · Route 53</text>
+  </g>
+  <g>
+    <animateMotion dur="26s" repeatCount="indefinite" begin="-13.0s"><mpath href="#o0"/></animateMotion>
+    <circle r="20" fill="#DDD6FE" opacity=".18"/>
+    <circle r="12" fill="#DDD6FE"/>
+    <rect x="-92" y="-52" width="184" height="38" rx="8" fill="#0D1117" fill-opacity=".8" stroke="#5B21B6" stroke-width="1"/>
+    <text y="-34" text-anchor="middle" fill="#F5F3FF" font-size="15" font-weight="800">Frontend</text>
+    <text y="-18" text-anchor="middle" fill="#A78BFA" font-size="11">React · Next.js · Angular</text>
+  </g>
+  <g>
+    <animateMotion dur="40s" repeatCount="indefinite" begin="-10.0s"><mpath href="#o1"/></animateMotion>
+    <circle r="26" fill="#7C3AED" opacity=".18"/>
+    <circle r="18" fill="#7C3AED"/>
+    <rect x="-102" y="-58" width="204" height="38" rx="8" fill="#0D1117" fill-opacity=".8" stroke="#5B21B6" stroke-width="1"/>
+    <text y="-40" text-anchor="middle" fill="#F5F3FF" font-size="15" font-weight="800">3D Web</text>
+    <text y="-24" text-anchor="middle" fill="#A78BFA" font-size="11">Three.js · React Three Fiber</text>
+  </g>
+  <g>
+    <animateMotion dur="40s" repeatCount="indefinite" begin="-30.0s"><mpath href="#o1"/></animateMotion>
+    <circle r="21" fill="#C4B5FD" opacity=".18"/>
+    <circle r="13" fill="#C4B5FD"/>
+    <rect x="-98" y="-53" width="197" height="38" rx="8" fill="#0D1117" fill-opacity=".8" stroke="#5B21B6" stroke-width="1"/>
+    <text y="-35" text-anchor="middle" fill="#F5F3FF" font-size="15" font-weight="800">Backend</text>
+    <text y="-19" text-anchor="middle" fill="#A78BFA" font-size="11">Node.js · Express · MongoDB</text>
+  </g>
+  <g>
+    <animateMotion dur="60s" repeatCount="indefinite" begin="-36.0s"><mpath href="#o2"/></animateMotion>
+    <circle r="23" fill="#8B5CF6" opacity=".18"/>
+    <circle r="15" fill="#8B5CF6"/>
+    <rect x="-108" y="-55" width="217" height="38" rx="8" fill="#0D1117" fill-opacity=".8" stroke="#5B21B6" stroke-width="1"/>
+    <text y="-37" text-anchor="middle" fill="#F5F3FF" font-size="15" font-weight="800">Consultoría</text>
+    <text y="-21" text-anchor="middle" fill="#A78BFA" font-size="11">AS-IS / TO-BE · requerimientos</text>
+  </g>
+</svg>
