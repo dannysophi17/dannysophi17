@@ -48,25 +48,25 @@
   <text x="170" y="160" text-anchor="middle" fill="#2E1065" font-size="26" font-weight="800">W</text>
 
   <!-- text -->
-  <text x="340" y="70" fill="#A78BFA" font-size="16" font-weight="700">// PROYECTO · PROJECT</text>
-  <text x="340" y="116" fill="#F5F3FF" font-size="42" font-weight="800" letter-spacing="1">Elemental W</text>
-  <text x="340" y="150" fill="#DDD6FE" font-size="17">Aula digital para aprender ciencias básicas con evidencia</text>
-  <text x="340" y="174" fill="#8B949E" font-size="15">Física · Química · Cálculo — Universidad EAN · Semillero Smart Farming</text>
-
-  <rect x="340" y="190" width="300" height="30" rx="15" fill="#5B21B6"/>
-  <text x="490" y="210" text-anchor="middle" fill="#F5F3FF" font-size="14" font-weight="700">✦ core team · mano derecha</text>
+  <text x="340" y="62" fill="#A78BFA" font-size="15" font-weight="700">// INVESTIGACIÓN · RESEARCH</text>
+  <text x="340" y="104" fill="#F5F3FF" font-size="38" font-weight="800" letter-spacing="1">Elemental W</text>
+  <text x="340" y="136" fill="#DDD6FE" font-size="16">Criterios para la implementación de gamificación web</text>
+  <text x="340" y="158" fill="#DDD6FE" font-size="16">en educación superior</text>
+  <text x="340" y="190" fill="#8B949E" font-size="13">INVESTIGADORES</text>
+  <text x="340" y="212" fill="#F5F3FF" font-size="15" font-weight="700">Brian David Pérez Herrera · Daniela Sophia Coavas Barboza</text>
+  <text x="340" y="262" fill="#A78BFA" font-size="13">Póster · V EISI 2026 · Universidad EAN</text>
 
   <!-- stats -->
   <g class="stat s1">
-    <text x="720" y="250" fill="#F5F3FF" font-size="30" font-weight="800">2</text>
-    <text x="720" y="272" fill="#A78BFA" font-size="13">investigaciones</text>
+    <text x="860" y="262" fill="#F5F3FF" font-size="28" font-weight="800">46</text>
+    <text x="860" y="282" fill="#A78BFA" font-size="12">estudiantes</text>
   </g>
   <g class="stat s2">
-    <text x="880" y="250" fill="#F5F3FF" font-size="30" font-weight="800">82</text>
-    <text x="880" y="272" fill="#A78BFA" font-size="13">estudiantes</text>
+    <text x="980" y="262" fill="#F5F3FF" font-size="28" font-weight="800">4</text>
+    <text x="980" y="282" fill="#A78BFA" font-size="12">docentes</text>
   </g>
   <g class="stat s3">
-    <text x="1040" y="250" fill="#F5F3FF" font-size="30" font-weight="800">18</text>
-    <text x="1040" y="272" fill="#A78BFA" font-size="13">criterios</text>
+    <text x="1080" y="262" fill="#F5F3FF" font-size="28" font-weight="800">18</text>
+    <text x="1080" y="282" fill="#A78BFA" font-size="12">criterios</text>
   </g>
 </svg>
