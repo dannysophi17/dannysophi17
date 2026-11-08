@@ -19,62 +19,56 @@
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-## 👩‍🚀 Hola, soy Daniela
+## Hi, I'm Daniela ✦
 
-- ☁️ **Junior Consultant** en IANGEL SAS (AWS Partner): requerimientos, análisis AS-IS / TO-BE y soluciones para clientes.
-- 🎓 **Ingeniería de Sistemas** @ Universidad EAN.
-- 🛰️ **Core team** del **AWS Student Builder Group (SBG)** de la Universidad EAN.
-- 🔬 **Investigadora** en Elemental W, junto a Brian Pérez.
-- 🗣️ Español · English (C1) · Français (C1).
+- **Junior Consultant** at IANGEL SAS (AWS Partner): requirements, AS-IS / TO-BE analysis and client solutions.
+- **Systems Engineering** student at EAN University.
+- **Core team** of the **AWS Student Builder Group (SBG)** at EAN University.
+- **Developer and researcher** at Elemental W, with Brian Pérez.
+- Spanish (native) · English (C1) · French (C1).
 
 <div align="center">
-  <img src="./assets/skills-orbit.svg" width="100%" alt="Mi sistema solar: AWS Cloud, Frontend, 3D Web, Backend y Consultoría orbitando alrededor de Daniela" />
+  <img src="./assets/skills-orbit.svg" width="100%" alt="My solar system: AWS Cloud, Frontend, 3D Web, Backend and Consulting orbiting around Daniela" />
 </div>
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-## 🪐 Proyecto principal · Portafolio Universo
+## 🪐 Main project · Portafolio Universo
 
 <a href="https://dcoavas.com">
-  <img src="https://raw.githubusercontent.com/dannysophi17/portafolio-universo/main/public/projects/preview-portfolio.png" width="100%" alt="Vista del Portafolio Universo" />
+  <img src="https://raw.githubusercontent.com/dannysophi17/portafolio-universo/main/public/projects/preview-portfolio.png" width="100%" alt="Portafolio Universo preview" />
 </a>
 
 <div align="center">
 
-<a href="https://dcoavas.com"><img src="https://img.shields.io/badge/VER_EN_VIVO-dcoavas.com-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/dannysophi17/portafolio-universo"><img src="https://img.shields.io/badge/CÓDIGO-portafolio--universo-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://dcoavas.com"><img src="https://img.shields.io/badge/LIVE-dcoavas.com-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/dannysophi17/portafolio-universo"><img src="https://img.shields.io/badge/CODE-portafolio--universo-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 <a href="https://github.com/dannysophi17/portafolio-universo/actions/workflows/ci.yml"><img src="https://github.com/dannysophi17/portafolio-universo/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
 
 </div>
 
-Mi portafolio es un **pequeño universo en 3D**: en vez de páginas, cada planeta es una sección (Sobre mí, Trayectoria, Skills, Proyectos, Certificaciones y Contacto). Lo diseñé, programé y desplegué yo, de punta a punta.
+My portfolio is a **small 3D universe**: instead of pages, each planet is a section (About, Journey, Skills, Projects, Certifications and Contact). I designed, built and deployed it end to end.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Lo que construí**
+**Highlights**
 
-- 🌌 Navegación 3D entre planetas con transiciones de cámara
-- 📱 Responsive en computador, tablet y celular
-- 🌐 Contenido bilingüe (ES / EN)
-- 🖼️ Galerías de proyectos y demos en vivo
-- ✉️ Formulario de contacto con EmailJS
-- ✅ CI con GitHub Actions (ESLint, Prettier, TypeScript)
+- 3D planet navigation with camera transitions
+- Responsive on desktop, tablet and mobile
+- Bilingual content (ES / EN)
+- CI with GitHub Actions (ESLint, Prettier, TypeScript)
 
 </td>
 <td width="50%" valign="top">
 
-**Cómo está desplegado en AWS**
+**Deployed on AWS**
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#5B21B6','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#A78BFA','fontFamily':'monospace'}}}%%
-flowchart TD
-  U([Visitante]) --> R[Route 53<br/>dcoavas.com]
-  R --> A[AWS Amplify<br/>CI/CD desde main]
-  A --> N[Next.js 16 + React 19]
-  N --> T[Three.js · React Three Fiber]
-  N --> E[EmailJS]
+flowchart LR
+  R[Route 53] --> A[AWS Amplify<br/>CI/CD] --> N[Next.js + Three.js]
 ```
 
 </td>
@@ -83,42 +77,42 @@ flowchart TD
 
 <div align="center">
 
-`Next.js 16` `React 19` `TypeScript` `Three.js` `React Three Fiber` `Tailwind CSS 4` `AWS Amplify` `Route 53` `GitHub Actions`
+`Next.js 16` `React 19` `TypeScript` `Three.js` `React Three Fiber` `Tailwind CSS 4` `AWS Amplify` `Route 53`
 
 </div>
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-## ✨ Más proyectos
+## More projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎁 3D Memory Gift Template
+### 3D Memory Gift Template
 
 <a href="https://3d-memory-gift-template.vercel.app/">
   <img src="https://raw.githubusercontent.com/dannysophi17/3d-memory-gift-template/main/docs/assets/demo-space.png" width="100%" alt="3D Memory Gift Template" />
 </a>
 
-Plantilla **open source** para crear regalos interactivos en 3D: estrellas de recuerdos, galerías de fotos, un regalo final que se desbloquea y soporte para modelos GLB, audio y video. Se personaliza solo con archivos de configuración.
+**Open-source** template for interactive 3D gifts: memory stars, photo galleries, a final gift that unlocks, and support for GLB models, audio and video. Customized through config files only.
 
 `Next.js` `R3F` `Zustand` `Vitest` `MIT`
 
 <a href="https://3d-memory-gift-template.vercel.app/"><img src="https://img.shields.io/badge/DEMO-A78BFA?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo" /></a>
-<a href="https://github.com/dannysophi17/3d-memory-gift-template"><img src="https://img.shields.io/badge/CÓDIGO-5B21B6?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-<a href="https://github.com/dannysophi17/3d-memory-gift-template/generate"><img src="https://img.shields.io/badge/USAR_PLANTILLA-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Use template" /></a>
+<a href="https://github.com/dannysophi17/3d-memory-gift-template"><img src="https://img.shields.io/badge/CODE-5B21B6?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/dannysophi17/3d-memory-gift-template/generate"><img src="https://img.shields.io/badge/USE_TEMPLATE-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Use template" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ Tareas Arcade
+### Tareas Arcade
 
 <a href="https://tareas-arcade-final.vercel.app">
   <img src="https://raw.githubusercontent.com/dannysophi17/portafolio-universo/main/public/projects/arcade1.png" width="100%" alt="Tareas Arcade" />
 </a>
 
-App **full stack** de tareas con estilo retro. Frontend SPA en Angular con guards y JWT, y un backend propio con autenticación, etiquetas, historial de cambios y estadísticas por usuario.
+Retro-style **full stack** task app. Angular SPA with guards and JWT, plus my own backend with authentication, tags, change history and per-user stats.
 
 `Angular` `Node.js` `Express` `MongoDB` `JWT`
 
@@ -131,41 +125,42 @@ App **full stack** de tareas con estilo retro. Frontend SPA en Angular con guard
 </table>
 
 <details>
-<summary><b>🔥 GasCare Senior</b> · IoT para detectar fugas de gas <sub>(click)</sub></summary>
+<summary><b>GasCare Senior</b> · IoT gas leak detection <sub>(click)</sub></summary>
 <br/>
 
-Sistema para hogares con adultos mayores: un **ESP32** lee el sensor de gas y envía los datos por HTTP a un backend en **PHP**, que los guarda en **MySQL** y los muestra en un dashboard.
+A system for homes with older adults: an **ESP32** reads a gas sensor and sends the data over HTTP to a **PHP** backend, which stores it in **MySQL** and shows it on a dashboard.
 
-`ESP32` `IoT` `PHP` `MySQL` · [Ver repositorio](https://github.com/dannysophi17/GasCare_Senior)
+`ESP32` `IoT` `PHP` `MySQL` · [View repository](https://github.com/dannysophi17/GasCare_Senior)
 
 </details>
 
 <details>
-<summary><b>☁️ AWS Examples</b> · laboratorios para estudiar AWS <sub>(click)</sub></summary>
+<summary><b>AWS Examples</b> · labs for studying AWS <sub>(click)</sub></summary>
 <br/>
 
-Ejemplos y prácticas que uso para preparar mis certificaciones de AWS.
+Examples and practice labs I use to prepare for AWS certifications.
 
-`AWS` `CLI` `Shell` · [Ver repositorio](https://github.com/dannysophi17/AWS-Examples)
+`AWS` `CLI` `Shell` · [View repository](https://github.com/dannysophi17/AWS-Examples)
 
 </details>
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-## 🔬 Investigación
+## Research & development
 
 <a href="https://brianperez22.github.io/ElementalW-Proyect/">
-  <img src="./assets/elemental-w.svg" width="100%" alt="Elemental W — Criterios para la implementación de gamificación web en educación superior. Investigadores: Brian David Pérez Herrera y Daniela Sophia Coavas Barboza." />
+  <img src="./assets/elemental-w.svg" width="100%" alt="Elemental W — web platform for learning basic sciences. Researchers and developers: Brian David Pérez Herrera and Daniela Sophia Coavas Barboza." />
 </a>
 
-Investigadora en **[Elemental W](https://elementalw.site)**, una plataforma web para aprender ciencias básicas creada por [Brian Pérez](https://github.com/BrianPerez22). Junto a él presentamos el póster *“Criterios para la implementación de gamificación web en educación superior”* en el **V EISI 2026** (Universidad EAN).
+**[Elemental W](https://elementalw.site)** is a web platform for learning physics, chemistry and calculus, started by [Brian Pérez](https://github.com/BrianPerez22). I build the platform with him as a developer and work on its research. Together we presented the poster *"Criteria for implementing web gamification in higher education"* at **V EISI 2026** (EAN University).
 
-<a href="https://brianperez22.github.io/ElementalW-Proyect/"><img src="https://img.shields.io/badge/Portal_de_investigación-5B21B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Portal de investigación" /></a>
-<a href="https://elementalw.site"><img src="https://img.shields.io/badge/Plataforma-7C3AED?style=flat-square&logo=atom&logoColor=white" alt="Elemental W" /></a>
+<a href="https://elementalw.site"><img src="https://img.shields.io/badge/Platform-7C3AED?style=flat-square&logo=atom&logoColor=white" alt="Elemental W" /></a>
+<a href="https://brianperez22.github.io/ElementalW-Proyect/"><img src="https://img.shields.io/badge/Research_portal-5B21B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Research portal" /></a>
+
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-## 🏅 Certificaciones
+## Certifications & stack
 
 <div align="center">
 
@@ -182,7 +177,7 @@ Investigadora en **[Elemental W](https://elementalw.site)**, una plataforma web 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
 <details>
-<summary><b>📊 GitHub Stats</b> <sub>(click)</sub></summary>
+<summary><b>GitHub stats</b> <sub>(click)</sub></summary>
 <br/>
 
 <div align="center">
