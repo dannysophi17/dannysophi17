@@ -21,7 +21,7 @@
   </g>
 
   <text x="600" y="78" text-anchor="middle" fill="#F5F3FF" font-size="26" font-weight="800">thanks for stopping by ✦</text>
-  <text x="600" y="108" text-anchor="middle" fill="#A78BFA" font-size="15">gracias por pasar por mi universo<tspan class="cursor" fill="#DDD6FE">█</tspan></text>
+  <text x="600" y="108" text-anchor="middle" fill="#A78BFA" font-size="15">see you in the next orbit<tspan class="cursor" fill="#DDD6FE">█</tspan></text>
 
   <!-- pixel rocket flying across -->
   <g class="p" shape-rendering="crispEdges">
