@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+  <style>
+    .l { opacity: 0; animation: show 14s infinite; }
+    .l1 { animation-delay: .2s; }  .l2 { animation-delay: .6s; }
+    .l3 { animation-delay: 1.0s; } .l4 { animation-delay: 1.4s; }
+    .l5 { animation-delay: 1.8s; } .l6 { animation-delay: 2.2s; }
+    .l7 { animation-delay: 2.6s; } .l8 { animation-delay: 3.0s; }
+    .l9 { animation-delay: 3.4s; } .l10 { animation-delay: 3.8s; }
+    @keyframes show { 0% { opacity: 0; } 2% { opacity: 1; } 92% { opacity: 1; } 96%,100% { opacity: 0; } }
+    text { white-space: pre; }
+    .cursor { animation: cur 1s steps(1) infinite; }
+    @keyframes cur { 50% { opacity: 0; } }
+    .tw { animation: tw 3s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity: .1; } 50% { opacity: .6; } }
+  </style>
+
+  <rect width="800" height="360" rx="14" fill="#0D1117"/>
+  <rect x="1.5" y="1.5" width="797" height="357" rx="13" fill="none" stroke="#5B21B6" stroke-width="3"/>
+  <rect x="1.5" y="1.5" width="797" height="40" rx="13" fill="#161B22"/>
+  <rect x="1.5" y="28" width="797" height="14" fill="#161B22"/>
+  <circle cx="28" cy="22" r="6" fill="#5B21B6"/>
+  <circle cx="48" cy="22" r="6" fill="#7C3AED"/>
+  <circle cx="68" cy="22" r="6" fill="#A78BFA"/>
+  <text x="400" y="27" text-anchor="middle" fill="#8B949E" font-size="13">daniela@universe: ~/profile</text>
+
+  <!-- scanlines -->
+  <g opacity=".04" fill="#A78BFA">
+    <rect y="70" width="800" height="2"/><rect y="110" width="800" height="2"/>
+    <rect y="150" width="800" height="2"/><rect y="190" width="800" height="2"/>
+    <rect y="230" width="800" height="2"/><rect y="270" width="800" height="2"/>
+    <rect y="310" width="800" height="2"/>
+  </g>
+
+  <!-- background planets -->
+  <circle class="tw" cx="720" cy="110" r="26" fill="#7C3AED"/>
+  <circle class="tw" cx="690" cy="290" r="14" fill="#A78BFA"/>
+
+  <g font-size="15" xml:space="preserve">
+    <text class="l l1" x="30" y="76"><tspan fill="#A78BFA">❯</tspan><tspan fill="#E6EDF3"> cat about.json</tspan></text>
+    <text class="l l2" x="30" y="106"><tspan fill="#C4B5FD">  "role"     </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">"Junior Consultant @ IANGEL SAS (AWS Partner)"</tspan></text>
+    <text class="l l3" x="30" y="132"><tspan fill="#C4B5FD">  "study"    </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">"Systems Engineering @ Universidad EAN"</tspan></text>
+    <text class="l l4" x="30" y="158"><tspan fill="#C4B5FD">  "team"     </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">"Core team · Elemental W"</tspan></text>
+    <text class="l l5" x="30" y="184"><tspan fill="#C4B5FD">  "aws"      </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">["Solutions Architect", "AI Practitioner",</tspan></text>
+    <text class="l l5" x="30" y="206"><tspan fill="#E6EDF3">                "Cloud Practitioner"]</tspan></text>
+    <text class="l l6" x="30" y="232"><tspan fill="#C4B5FD">  "builds"   </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">"full stack apps · 3D web · cloud"</tspan></text>
+    <text class="l l7" x="30" y="258"><tspan fill="#C4B5FD">  "speaks"   </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">"ES (native) · EN (C1) · FR (C1)"</tspan></text>
+    <text class="l l8" x="30" y="284"><tspan fill="#C4B5FD">  "based_in" </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#E6EDF3">"Bogotá, Colombia 🇨🇴"</tspan></text>
+    <text class="l l9" x="30" y="314"><tspan fill="#A78BFA">❯</tspan><tspan fill="#E6EDF3"> echo $STATUS</tspan></text>
+    <text class="l l10" x="30" y="340"><tspan fill="#DDD6FE">  studying for AWS ML Engineer – Associate </tspan><tspan class="cursor" fill="#A78BFA">█</tspan></text>
+  </g>
+</svg>

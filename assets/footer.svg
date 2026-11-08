@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+  <style>
+    .p { animation: travel 10s linear infinite; }
+    @keyframes travel { from { transform: translateX(-80px); } to { transform: translateX(1280px); } }
+    .tw1 { animation: tw 2.2s ease-in-out infinite; }
+    .tw2 { animation: tw 3s ease-in-out infinite .9s; }
+    @keyframes tw { 0%,100% { opacity: .15; } 50% { opacity: 1; } }
+    .cursor { animation: cur 1s steps(1) infinite; }
+    @keyframes cur { 50% { opacity: 0; } }
+  </style>
+  <rect width="1200" height="170" rx="18" fill="#0D1117"/>
+  <rect x="1.5" y="1.5" width="1197" height="167" rx="17" fill="none" stroke="#5B21B6" stroke-width="3"/>
+
+  <g shape-rendering="crispEdges">
+    <rect class="tw1" x="90" y="40" width="4" height="4" fill="#DDD6FE"/>
+    <rect class="tw2" x="260" y="120" width="3" height="3" fill="#A78BFA"/>
+    <rect class="tw1" x="420" y="30" width="3" height="3" fill="#7C3AED"/>
+    <rect class="tw2" x="790" y="130" width="4" height="4" fill="#DDD6FE"/>
+    <rect class="tw1" x="960" y="36" width="4" height="4" fill="#A78BFA"/>
+    <rect class="tw2" x="1110" y="110" width="3" height="3" fill="#DDD6FE"/>
+  </g>
+
+  <text x="600" y="78" text-anchor="middle" fill="#F5F3FF" font-size="26" font-weight="800">thanks for stopping by ✦</text>
+  <text x="600" y="108" text-anchor="middle" fill="#A78BFA" font-size="15">gracias por pasar por mi universo<tspan class="cursor" fill="#DDD6FE">█</tspan></text>
+
+  <!-- pixel rocket flying across -->
+  <g class="p" shape-rendering="crispEdges">
+    <rect x="0" y="140" width="24" height="10" fill="#DDD6FE"/>
+    <rect x="24" y="142" width="6" height="6" fill="#A78BFA"/>
+    <rect x="6" y="134" width="8" height="6" fill="#7C3AED"/>
+    <rect x="6" y="150" width="8" height="6" fill="#7C3AED"/>
+    <rect x="-10" y="142" width="10" height="6" fill="#F0ABFC" opacity=".8"/>
+    <rect x="-22" y="143" width="10" height="4" fill="#C084FC" opacity=".5"/>
+  </g>
+</svg>
